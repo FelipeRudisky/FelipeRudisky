@@ -1,10 +1,18 @@
 <h1 align="center"><b>Hi , I'm Felipe Rudisky</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;feliperudisky+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gestión de Proyectos Tecnológicos+Automatizaciones+IAs+Aplicadas de negocios+Infraestructura+Servidores, Docker y Cloud..&hearts;++;Self-taught+Front-End+Developer,;WordPress+WooCommerce+HTML/CSS/JS+PHP,;Marketing Digital Estratégico+SEO Técnico y SEM Avanzado,;UX/UI+Capacitación y Workshops/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
+ 🎯 Marketing Digital Estratégico
+- 🔍 SEO Técnico & SEM Avanzado
+- 🖌️ Diseño de Aplicaciones Web & UX/UI
+- 🧩 Hosting & Dominios
+- 🔧 Mantenimiento & Soporte Web
+- ✉️ Email Marketing & Automatización CRM
+- 🧠 Branding & Posicionamiento
+- 🧑‍🏫 Capacitación y Workshops
+- 💼 Consultoría de Marketing Digital
 <br>
 
 Mi nombre es **Felipe Rudisky**, soy de **Chile** y me desempeño como **Gestor de Proyectos Tecnológicos**, especializado en **Inteligencia Artificial**, **Desarrollo Web**, y **Soporte Técnico**. Combino habilidades técnicas y estratégicas para liderar proyectos digitales desde múltiples frentes.
