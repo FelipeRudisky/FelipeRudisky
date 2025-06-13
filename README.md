@@ -30,7 +30,7 @@ Puedes encontrar mis redes sociales y mi CV completo en mi [sitio web personal](
 
 ![GIF personal](#)
 
-![Banner de Condor Coders](FirmaCorreo.gif)
+![Banner de Condor Coders](FirmaCorreo.png)
 
 ---
 
