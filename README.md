@@ -1,49 +1,52 @@
 # 👋 Hola
 
-Mi nombre es **Felipe Rudisky**, soy de **Chile** y me desempeño como **Gestor de Proyectos Tecnológicos | IA | Support TI** en *Digital Marketing Agency - Felipe Rudisky*.
+Mi nombre es **Felipe Rudisky**, soy de **Chile** y me desempeño como **Gestor de Proyectos Tecnológicos**, especializado en **Inteligencia Artificial**, **Desarrollo Web**, y **Soporte Técnico**. Combino habilidades técnicas y estratégicas para liderar proyectos digitales desde múltiples frentes.
 
-Actualmente trabajo para [@Agrotop](https://empresasagrotop.cl) como **Encargado de Sistemas y Soporte TI** 🔧
+Actualmente colaboro con distintas organizaciones en roles clave:
 
-También comparto contenidos en mi canal de [LinkedIn](https://www.linkedin.com/in/felipe-andrés-rudisky-rudisky-8b121255/) 🎥 donde hablo sobre **Gestión de Proyectos Tecnológicos**, **Inteligencia Artificial**, y tendencias del mundo digital.
+- 🔧 **Encargado de Sistemas y Soporte TI** en [@Agrotop](https://empresasagrotop.cl), gestionando la infraestructura tecnológica y el soporte integral de la compañía.
+- 💻 **Desarrollador & Maquetador Web en WordPress** en [@Infy](https://agenciaintegrify.myportfolio.com/work), creando experiencias digitales funcionales, optimizadas y con orientación UX/UI.
+- 🚀 Fundador de mi propia **Digital Marketing Agency - Felipe Rudisky**: [**feliperudisky.com**](https://www.feliperudisky.com), donde lidero proyectos de marketing, desarrollo web y automatización con foco en innovación tecnológica.
 
 ---
 
 ## 🛠️ Habilidades Principales
 
-- 🚀 Gestión de Proyectos Tecnológicos
-- 🤖 Automatizaciones & IAs
+- 👨‍💼 Gestión de Proyectos Tecnológicos (Scrum, Kanban)
+- 🧠 Automatizaciones & IAs aplicadas a negocios
 - ☁️ Infraestructura, Servidores, Docker & Cloud
-- 📈 Analítica Web & Business Intelligence
-- 🧠 Pensamiento crítico, toma de decisiones y resolución de problemas
-- 💻 Programación: **Python**, **PHP**, **JavaScript**, **CSS**, **WordPress**
-- 🌱 Experiencia en **Startups de alto crecimiento**
+- 📊 Business Intelligence & Analítica Web
+- 💻 Desarrollo con **WordPress**, **WooCommerce**, **HTML/CSS/JS**, **PHP**, **Python**
+- 🧠 Pensamiento estratégico, resolución de problemas y toma de decisiones
 
 ---
 
 ## 🎨 Experiencia Complementaria
 
-- 💡 Diseño de Aplicaciones Web & UX/UI
-- 🌐 WordPress & WooCommerce
-- 📣 Marketing Digital Estratégico
+- 🎯 Marketing Digital Estratégico
 - 🔍 SEO Técnico & SEM Avanzado
-- 🎨 Branding e Identidad Visual
-- 🧩 Hosting & Gestión de Dominios
+- 🖌️ Diseño de Aplicaciones Web & UX/UI
+- 🧩 Hosting & Dominios
 - 🔧 Mantenimiento & Soporte Web
-- 📨 Email Marketing Automatizado
-- 📊 Consultoría de Marketing Digital
-- 🎓 Capacitación y Workshops profesionales
+- ✉️ Email Marketing & Automatización CRM
+- 🧠 Branding & Posicionamiento
+- 🧑‍🏫 Capacitación y Workshops
+- 💼 Consultoría de Marketing Digital
 
 ---
 
 ## 📬 Contacto
 
-📎 Puedes acceder a mis redes y descargar mi CV completo desde mi [sitio web personal](#).
+Puedes conocer más sobre mis proyectos, redes sociales y acceder a mi CV completo en mi [sitio web personal](https://www.feliperudisky.com).
 
 ---
 
 ## 🎞️ Un poco de mi estilo
 
 ![GIF personal](FirmaCorreoGif.gif)
+
+---
+
 
 ---
 
