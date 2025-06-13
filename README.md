@@ -13,9 +13,9 @@ Actualmente colaboro con distintas organizaciones en roles clave:
 
 ---
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felipe.rudisky/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/felipe-andr%C3%A9s-rudisky-rudisky-8b121255/)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.feliperudisky.com/)
+[![Instagram](https://www.instagram.com/felipe.rudisky/)
+[![LinkedIn](https://www.linkedin.com/in/felipe-andr%C3%A9s-rudisky-rudisky-8b121255/)
+[![Web](https://www.feliperudisky.com/)
 
 ---
 
