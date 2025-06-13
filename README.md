@@ -1,11 +1,3 @@
-<!-- Aplica la fuente Montserrat usando Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
-<style>
-  body {
-    font-family: 'Montserrat', sans-serif;
-  }
-</style>
-
 # 👋 Hola
 
 Mi nombre es **Felipe Rudisky**, soy de **Chile** y me desempeño como **Gestor de Proyectos Tecnológicos**, especializado en **Inteligencia Artificial**, **Desarrollo Web**, y **Soporte Técnico**. Combino habilidades técnicas y estratégicas para liderar proyectos digitales desde múltiples frentes.
