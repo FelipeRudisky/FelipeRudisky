@@ -1,3 +1,11 @@
+<!-- Aplica la fuente Montserrat usando Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+</style>
+
 # 👋 Hola
 
 Mi nombre es **Felipe Rudisky**, soy de **Chile** y me desempeño como **Gestor de Proyectos Tecnológicos**, especializado en **Inteligencia Artificial**, **Desarrollo Web**, y **Soporte Técnico**. Combino habilidades técnicas y estratégicas para liderar proyectos digitales desde múltiples frentes.
@@ -6,7 +14,7 @@ Actualmente colaboro con distintas organizaciones en roles clave:
 
 - 🔧 **Encargado de Sistemas y Soporte TI** en [@Agrotop](https://empresasagrotop.cl), gestionando la infraestructura tecnológica y el soporte integral de la compañía.
 - 💻 **Desarrollador & Maquetador Web en WordPress** en [@Infy](https://agenciaintegrify.myportfolio.com/work), creando experiencias digitales funcionales, optimizadas y con orientación UX/UI.
-- 🚀 Fundador de mi propia **Digital Marketing Agency - Felipe Rudisky**: [**@feliperudisky.com**](https://www.feliperudisky.com), donde lidero proyectos de marketing, desarrollo web y automatización con foco en innovación tecnológica.
+- 🚀 Fundador de: **Digital Marketing Agency - Felipe Rudisky**: [**@feliperudisky.com**](https://www.feliperudisky.com), donde lidero proyectos de marketing, desarrollo web y automatización con foco en innovación tecnológica.
 
 ---
 
@@ -44,9 +52,6 @@ Puedes conocer más sobre mis proyectos, redes sociales y acceder a mi CV comple
 ## 🎞️ Un poco de mi estilo
 
 ![GIF personal](FirmaCorreoGif.gif)
-
----
-
 
 ---
 
