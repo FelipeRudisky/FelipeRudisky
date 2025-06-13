@@ -13,9 +13,8 @@ Actualmente colaboro con distintas organizaciones en roles clave:
 
 ---
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](#)
-[![Instagram](https://www.instagram.com/felipe.rudisky/)
-[![LinkedIn](https://www.linkedin.com/in/felipe-andr%C3%A9s-rudisky-rudisky-8b121255/)
-[![Web](https://www.feliperudisky.com/)
+
+
 
 ---
 
