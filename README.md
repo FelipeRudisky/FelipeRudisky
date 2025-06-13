@@ -1,5 +1,8 @@
 # 👋 Hola
 
+![Banner de Condor Coders](banner-github-condor-coders.png)
+
+
 Mi nombre es **Felipe Rudisky**, soy de **Chile** y trabajo como **Gestor de Proyectos Tecnológicos | IA | Support TI** (Digital Marketing Agency - Felipe Rudisky).
 
 - 🔧 Actualmente trabajo para [@Agrotop](https://empresasagrotop.cl) como **Encargado de Sistemas y Soporte TI**
