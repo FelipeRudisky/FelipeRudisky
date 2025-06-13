@@ -29,7 +29,8 @@ Puedes encontrar mis redes sociales y mi CV completo en mi [sitio web personal](
 ## 🎞️ Un poco de mi estilo
 
 ![GIF personal](#)
-<!-- Reemplaza el enlace con tu GIF o imagen animada si deseas -->
+
+![Banner de Condor Coders](FirmaCorreo.gif)
 
 ---
 
