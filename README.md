@@ -2,8 +2,8 @@
 
 Mi nombre es **Felipe Rudisky**, soy de **Chile** y trabajo como **Gestor de Proyectos Tecnológicos | IA | Support TI** (Digital Marketing Agency - Felipe Rudisky).
 
-- 🔧 Actualmente trabajo para [@Agrotop](https://empresasagrotop.cl)) como **Encargado de Sistemas y Soporte TI**
-- 🎥 Tengo un canal de [Linkeding](https://www.linkedin.com/in/felipe-andrés-rudisky-rudisky-8b121255/)) (en español) donde comparto conocimientos sobre tecnologías como **Gestion de Proyectos Tecnologicos**, **IAs** y más.
+- 🔧 Actualmente trabajo para [@Agrotop](https://empresasagrotop.cl) como **Encargado de Sistemas y Soporte TI**
+- 🎥 Tengo un canal de [Linkeding](https://www.linkedin.com/in/felipe-andrés-rudisky-rudisky-8b121255/) (en español) donde comparto conocimientos sobre tecnologías como **Gestion de Proyectos Tecnologicos**, **IAs** y más.
 
 ---
 
