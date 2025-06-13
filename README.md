@@ -1,34 +1,52 @@
 # 👋 Hola
 
+Mi nombre es **Felipe Rudisky**, soy de **Chile** y me desempeño como **Gestor de Proyectos Tecnológicos | IA | Support TI** en *Digital Marketing Agency - Felipe Rudisky*.
 
+Actualmente trabajo para [@Agrotop](https://empresasagrotop.cl) como **Encargado de Sistemas y Soporte TI** 🔧
 
-
-Mi nombre es **Felipe Rudisky**, soy de **Chile** y trabajo como **Gestor de Proyectos Tecnológicos | IA | Support TI** (Digital Marketing Agency - Felipe Rudisky).
-
-- 🔧 Actualmente trabajo para [@Agrotop](https://empresasagrotop.cl) como **Encargado de Sistemas y Soporte TI**
-- 🎥 Tengo un canal de [Linkeding](https://www.linkedin.com/in/felipe-andrés-rudisky-rudisky-8b121255/) (en español) donde comparto conocimientos sobre tecnologías como **Gestion de Proyectos Tecnologicos**, **IAs** y más.
+También comparto contenidos en mi canal de [LinkedIn](https://www.linkedin.com/in/felipe-andrés-rudisky-rudisky-8b121255/) 🎥 donde hablo sobre **Gestión de Proyectos Tecnológicos**, **Inteligencia Artificial**, y tendencias del mundo digital.
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Habilidades Principales
 
-- 🚀 Gestion de proyectos Tecnologicos.
-- ☁️ Experiencia con **IAs**, **Server**, **Docker**, y herramientas Cloud en general
+- 🚀 Gestión de Proyectos Tecnológicos
+- 🤖 Automatizaciones & IAs
+- ☁️ Infraestructura, Servidores, Docker & Cloud
+- 📈 Analítica Web & Business Intelligence
 - 🧠 Pensamiento crítico, toma de decisiones y resolución de problemas
-- 🐍 Algo de programación en **Python**, **Php**,**Css**,**Js**,**WordPress**
-- 🌱 Experiencia en **startups de alto crecimiento**
+- 💻 Programación: **Python**, **PHP**, **JavaScript**, **CSS**, **WordPress**
+- 🌱 Experiencia en **Startups de alto crecimiento**
+
+---
+
+## 🎨 Experiencia Complementaria
+
+- 💡 Diseño de Aplicaciones Web & UX/UI
+- 🌐 WordPress & WooCommerce
+- 📣 Marketing Digital Estratégico
+- 🔍 SEO Técnico & SEM Avanzado
+- 🎨 Branding e Identidad Visual
+- 🧩 Hosting & Gestión de Dominios
+- 🔧 Mantenimiento & Soporte Web
+- 📨 Email Marketing Automatizado
+- 📊 Consultoría de Marketing Digital
+- 🎓 Capacitación y Workshops profesionales
 
 ---
 
 ## 📬 Contacto
 
-Puedes encontrar mis redes sociales y mi CV completo en mi [sitio web personal](#).
+📎 Puedes acceder a mis redes y descargar mi CV completo desde mi [sitio web personal](#).
 
 ---
 
 ## 🎞️ Un poco de mi estilo
 
 ![GIF personal](FirmaCorreoGif.gif)
+
+---
+
 
 
 ---
