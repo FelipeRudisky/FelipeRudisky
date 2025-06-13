@@ -6,7 +6,7 @@ Actualmente colaboro con distintas organizaciones en roles clave:
 
 - 🔧 **Encargado de Sistemas y Soporte TI** en [@Agrotop](https://empresasagrotop.cl), gestionando la infraestructura tecnológica y el soporte integral de la compañía.
 - 💻 **Desarrollador & Maquetador Web en WordPress** en [@Infy](https://agenciaintegrify.myportfolio.com/work), creando experiencias digitales funcionales, optimizadas y con orientación UX/UI.
-- 🚀 Fundador de mi propia **Digital Marketing Agency - Felipe Rudisky**: [**feliperudisky.com**](https://www.feliperudisky.com), donde lidero proyectos de marketing, desarrollo web y automatización con foco en innovación tecnológica.
+- 🚀 Fundador de mi propia **Digital Marketing Agency - Felipe Rudisky**: [**@feliperudisky.com**](https://www.feliperudisky.com), donde lidero proyectos de marketing, desarrollo web y automatización con foco en innovación tecnológica.
 
 ---
 
