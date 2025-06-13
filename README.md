@@ -1,6 +1,6 @@
 # 👋 Hola
 
-![Banner de Condor Coders](banner-github-condor-coders.png)
+![Banner de Condor Coders](FirmaCorreo.png)
 
 
 Mi nombre es **Felipe Rudisky**, soy de **Chile** y trabajo como **Gestor de Proyectos Tecnológicos | IA | Support TI** (Digital Marketing Agency - Felipe Rudisky).
@@ -30,7 +30,6 @@ Puedes encontrar mis redes sociales y mi CV completo en mi [sitio web personal](
 
 ![GIF personal](FirmaCorreoGif.gif)
 
-![Banner de Condor Coders](FirmaCorreo.png)
 
 ---
 
