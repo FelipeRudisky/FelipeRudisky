@@ -88,7 +88,7 @@ Actualmente colaboro con distintas organizaciones en roles clave:
 ## 📬 Contacto
 
 Puedes conocer más sobre mis proyectos, redes sociales y acceder a mi CV completo en mi [sitio web personal](https://www.feliperudisky.com).
-
+## ✅ Complementa tu visita
 ---
 
 ## 🎞️ Un poco de mi estilo
@@ -102,9 +102,7 @@ Puedes conocer más sobre mis proyectos, redes sociales y acceder a mi CV comple
 ---
 
 ### Gracias por visitar mi perfil 🙌
-## ✅ Complementa tu visita
 
-<h1 align="center"><b>Felipe Rudisky</b> — CV Profesional 🧠💻</h1>
 
 ---
 
