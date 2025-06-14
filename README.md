@@ -103,20 +103,21 @@ Puedes conocer más sobre mis proyectos, redes sociales y acceder a mi CV comple
 
 
 
-## 🧰 Habilidades Técnicas
-
-- **Bases de Datos & SQL** • **Análisis de Datos**  
-- **Infraestructura TI** • **Redes y Telecomunicaciones**  
-- **Seguridad Informática** • **Microsoft 365**  
-- **HTML / PHP / CSS-3** • **Soporte TIC**  
-- **Gestión de Software** • **Proyectos de Infraestructura**
-
+#
 ---
 
 ## 🗣️ Perfil Profesional
 
-Profesional con 6 años de experiencia en **gestión de infraestructura tecnológica**, soporte TIC y liderazgo de proyectos. Experto en implementar soluciones digitales para optimizar procesos y comunicación.  
-Busco colaborar con equipos dinámicos, aportando conocimientos en **bases de datos**, **automatización** y **seguridad informática**.
+
+
+## 👨‍💻 Sobre mí
+
+Soy **Felipe Rudisky**, profesional chileno con más de **10 años de experiencia** liderando proyectos tecnológicos. Especializado en **Inteligencia Artificial**, **Desarrollo Web**, **Infraestructura TI** y **Automatización**, combino visión estratégica con capacidades técnicas para diseñar e implementar soluciones digitales eficaces.
+
+He trabajado en entornos corporativos y startups, liderando iniciativas de transformación digital, soporte técnico, seguridad informática y optimización de procesos. Mi enfoque está orientado a generar valor real mediante tecnología, datos y experiencia de usuario.
+
+Actualmente, busco colaborar con equipos innovadores en desafíos que requieran **gestión ágil**, **automatización inteligente** y **desarrollo de sistemas escalables**.
+
 
 ---
 
