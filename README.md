@@ -2,8 +2,12 @@
 <!--  -->
 
 <br>
+## 👨‍💻 Sobre mí
 
-Mi nombre es **Felipe Rudisky**, soy de **Chile** y me desempeño como **Gestor de Proyectos Tecnológicos**, especializado en **Inteligencia Artificial**, **Desarrollo Web**, y **Soporte Técnico**. Combino habilidades técnicas y estratégicas para liderar proyectos digitales desde múltiples frentes.
+Soy **Felipe Rudisky**, profesional chileno con más de **10 años de experiencia** liderando proyectos tecnológicos. Especializado en **Inteligencia Artificial**, **Desarrollo Web**, **Infraestructura TI** y **Automatización**, combino visión estratégica con capacidades técnicas para diseñar e implementar soluciones digitales eficaces.
+
+He trabajado en entornos corporativos y startups, liderando iniciativas de transformación digital, soporte técnico, seguridad informática y optimización de procesos. Mi enfoque está orientado a generar valor real mediante tecnología, datos y experiencia de usuario.
+
 
 Actualmente colaboro con distintas organizaciones en roles clave:
 
@@ -102,25 +106,7 @@ Puedes conocer más sobre mis proyectos, redes sociales y acceder a mi CV comple
 <h1 align="center"><b>Felipe Rudisky</b> — CV Profesional 🧠💻</h1>
 
 
-
-#
 ---
-
-## 🗣️ Perfil Profesional
-
-
-
-## 👨‍💻 Sobre mí
-
-Soy **Felipe Rudisky**, profesional chileno con más de **10 años de experiencia** liderando proyectos tecnológicos. Especializado en **Inteligencia Artificial**, **Desarrollo Web**, **Infraestructura TI** y **Automatización**, combino visión estratégica con capacidades técnicas para diseñar e implementar soluciones digitales eficaces.
-
-He trabajado en entornos corporativos y startups, liderando iniciativas de transformación digital, soporte técnico, seguridad informática y optimización de procesos. Mi enfoque está orientado a generar valor real mediante tecnología, datos y experiencia de usuario.
-
-Actualmente, busco colaborar con equipos innovadores en desafíos que requieran **gestión ágil**, **automatización inteligente** y **desarrollo de sistemas escalables**.
-
-
----
-
 
 ## ✅ Complementa tu visita
 
