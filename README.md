@@ -2,6 +2,25 @@
 <!--  -->
 
 <br>
+
+## 🎓 Formación Académica & Técnica
+
+- 🎓 **Ingeniero de Ejecución en Informática**  
+  Formación integral en sistemas, desarrollo y soporte tecnológico.
+
+- 🎓 **Diplomado en Preparación, Gestión y Evaluación de Proyectos**  
+  Universidad Adolfo Ibáñez (2022–2023)  
+  Enfoque en dirección de proyectos, evaluación financiera y metodologías ágiles.
+
+- 🧠 **Técnicas de Diseño de Bases de Datos en SQL**  
+  Universidad INACAP (2024)  
+  Modelado, normalización y optimización de estructuras de datos relacionales.
+
+- 🌐 **Diseñador de Páginas Web con WordPress**  
+  Creación y mantenimiento de sitios responsivos, enfocados en UX/UI, SEO técnico y rendimiento.
+
+
+
 ## 👨‍💻 Sobre mí
 
 Soy **Felipe Rudisky**, profesional chileno con más de **10 años de experiencia** liderando proyectos tecnológicos. Especializado en **Inteligencia Artificial**, **Desarrollo Web**, **Infraestructura TI** y **Automatización**, combino visión estratégica con capacidades técnicas para diseñar e implementar soluciones digitales eficaces.
