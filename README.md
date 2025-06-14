@@ -102,19 +102,12 @@ Puedes conocer más sobre mis proyectos, redes sociales y acceder a mi CV comple
 ---
 
 ### Gracias por visitar mi perfil 🙌
+## ✅ Complementa tu visita
 
 <h1 align="center"><b>Felipe Rudisky</b> — CV Profesional 🧠💻</h1>
 
-
 ---
 
-## ✅ Complementa tu visita
-
-👨‍💼 Revisa más sobre mí en mi [Readme Profesional](#)  
-🎨 Portfolio Web: [feliperudisky.com](https://www.feliperudisky.com)  
-📥 Descarga este CV en [PDF o Word (Próximamente)](#)
-
----
 
 
 
