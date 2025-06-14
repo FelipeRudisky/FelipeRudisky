@@ -3,23 +3,6 @@
 
 <br>
 
-## 🎓 Formación Académica & Técnica
-
-- 🎓 **Ingeniero de Ejecución en Informática**  
-  Formación integral en sistemas, desarrollo y soporte tecnológico.
-
-- 🎓 **Diplomado en Preparación, Gestión y Evaluación de Proyectos**  
-  Universidad Adolfo Ibáñez (2022–2023)  
-  Enfoque en dirección de proyectos, evaluación financiera y metodologías ágiles.
-
-- 🧠 **Técnicas de Diseño de Bases de Datos en SQL**  
-  Universidad INACAP (2024)  
-  Modelado, normalización y optimización de estructuras de datos relacionales.
-
-- 🌐 **Diseñador de Páginas Web con WordPress**  
-  Creación y mantenimiento de sitios responsivos, enfocados en UX/UI, SEO técnico y rendimiento.
-
-
 
 ## 👨‍💻 Sobre mí
 
@@ -99,6 +82,24 @@ Actualmente colaboro con distintas organizaciones en roles clave:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+## 🎓 Formación Académica & Técnica
+
+- 🎓 **Ingeniero de Ejecución en Informática**  
+  Formación integral en sistemas, desarrollo y soporte tecnológico.
+
+- 🎓 **Diplomado en Preparación, Gestión y Evaluación de Proyectos**  
+  Universidad Adolfo Ibáñez (2022–2023)  
+  Enfoque en dirección de proyectos, evaluación financiera y metodologías ágiles.
+
+- 🧠 **Técnicas de Diseño de Bases de Datos en SQL**  
+  Universidad INACAP (2024)  
+  Modelado, normalización y optimización de estructuras de datos relacionales.
+
+- 🌐 **Diseñador de Páginas Web con WordPress**  
+  Creación y mantenimiento de sitios responsivos, enfocados en UX/UI, SEO técnico y rendimiento.
+
 
 
 
