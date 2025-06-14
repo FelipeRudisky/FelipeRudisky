@@ -17,16 +17,42 @@ Actualmente colaboro con distintas organizaciones en roles clave:
 
 
 ---
-
 ## 🛠️ Habilidades Principales
 
-- 👨‍💼 Gestión de Proyectos Tecnológicos (Scrum, Kanban)
-- 🧠 Automatizaciones & IAs aplicadas a negocios
-- ☁️ Infraestructura, Servidores, Docker & Cloud
-- 📊 Business Intelligence & Analítica Web
-- 💻 Desarrollo con **WordPress**, **WooCommerce**, **HTML/CSS/JS**, **PHP**, **Python**
-- 🧠 Pensamiento estratégico, resolución de problemas y toma de decisiones
+- 👨‍💼 **Gestión de Proyectos Tecnológicos**  
+  Scrum, Kanban, liderazgo IT y coordinación de equipos multidisciplinarios.
 
+- 🤖 **Automatización & IA aplicada a negocios**  
+  Integración de flujos automatizados, RPA, asistentes virtuales y optimización de procesos.
+
+- ☁️ **Infraestructura y Cloud Computing**  
+  Administración de servidores, redes, Docker, arquitectura cloud y sistemas TI.
+
+- 🔐 **Seguridad Informática & Continuidad Operacional**  
+  Protocolos, respaldo de datos, gestión de accesos, prevención de amenazas.
+
+- 🧠 **Pensamiento estratégico y toma de decisiones basada en datos**  
+  Análisis técnico, visión global de negocio y resolución de problemas complejos.
+
+- 🖥️ **Desarrollo Web Fullstack**  
+  WordPress, WooCommerce, HTML, CSS, JavaScript, PHP, Python.
+
+- 📈 **Business Intelligence & Analítica Web**  
+  Visualización de datos, dashboards, seguimiento de métricas clave.
+
+- 🗃️ **Bases de Datos & SQL**  
+  Diseño, modelado, optimización y administración de bases de datos relacionales.
+
+- 🔧 **Soporte TIC & Gestión de Software**  
+  Asistencia técnica, mantenimiento, atención a usuarios, herramientas Microsoft 365.
+
+- 🌐 **UX/UI & Diseño Web centrado en el usuario**  
+  Interfaces intuitivas, experiencia de usuario, accesibilidad y responsive design.
+
+- 🌍 **Hosting, dominios y despliegue web**  
+  Configuración de servicios, mantenimiento y gestión de entornos de producción.
+
+---
 ---
 
 ## 🎨 Experiencia Complementaria
