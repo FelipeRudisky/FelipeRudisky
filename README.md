@@ -6,7 +6,8 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Felipe Rudisky**, profesional chileno con más de **10 años de experiencia** liderando proyectos tecnológicos. Especializado en **Inteligencia Artificial**, **Desarrollo Web**, **Infraestructura TI** y **Automatización**, combino visión estratégica con capacidades técnicas para diseñar e implementar soluciones digitales eficaces.
+Soy **Felipe Rudisky**, profesional Chileno con más de **10 años de experiencia** liderando proyectos tecnológicos.
+Especializado en **Inteligencia Artificial**, **Desarrollo Web**, **Infraestructura TI** y **Automatización**, combino visión estratégica con capacidades técnicas para diseñar e implementar soluciones digitales eficaces.
 
 He trabajado en entornos corporativos y startups, liderando iniciativas de transformación digital, soporte técnico, seguridad informática y optimización de procesos. Mi enfoque está orientado a generar valor real mediante tecnología, datos y experiencia de usuario.
 
